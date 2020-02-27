@@ -5,7 +5,7 @@
 # Site
 title: A Sky Full of Stars
 subtitle: ''
-description: ''
+description: 'expected losses are losses but expected gains are not gains'
 keywords:
 author: Chn Xen
 language: zh-CN
@@ -104,4 +104,76 @@ deploy:
 # Theme Settings Section
 # ===============================================================
 theme_config:
+
+  # ---------------------------------------------------------------
+  # Theme Core Configuration Settings
+  # See: https://theme-next.org/docs/theme-settings/
+  # ---------------------------------------------------------------
+  reminder: true
+  minify: true
+
+  # ---------------------------------------------------------------
+  # Site Information Settings
+  # See: https://theme-next.org/docs/getting-started/
+  # ---------------------------------------------------------------
+
+  # ---------------------------------------------------------------
+  # Scheme Settings
+  # ---------------------------------------------------------------
   scheme: Pisces
+
+  # ---------------------------------------------------------------
+  # Menu Settings
+  # ---------------------------------------------------------------
+
+  # Usage: `Key: /link/ || icon`
+  menu:
+    home: / || home
+    categories: /categories/ || th
+    schedule: /schedule/ || calendar
+    archives: /archives/ || archive
+    #about: /about/ || user
+    #tags: /tags/ || tags
+    #sitemap: /sitemap.xml || sitemap
+    #commonweal: /404/ || heartbeat
+
+  # ---------------------------------------------------------------
+  # Sidebar Settings
+  # See: https://theme-next.org/docs/theme-settings/sidebar
+  # ---------------------------------------------------------------
+  sidebar:
+    position: right
+
+  # Sidebar Avatar
+  avatar:
+    url: /uploads/avatar.png
+    rounded: true
+    rotated: false
+
+  # Social Links
+  social:
+    GitHub: https://github.com/zcoaolas || github
+    E-Mail: mailto:zcoaolas@gmail.com || envelope
+    Telegram: https://t.me/zcoaolas || telegram
+    Twitter: https://twitter.com/zcoaolas || twitter
+
+  social_icons:
+    enable: true
+    icons_only: true
+    transition: true
+
+  toc:
+    enable: true
+    number: true
+    wrap: true
+    expand_all: true
+    max_depth: 6
+
+  # ---------------------------------------------------------------
+  # Misc Theme Settings
+  # ---------------------------------------------------------------
+  mobile_layout_economy: true
+
+  back2top:
+    sidebar: true
+    scrollpercent: true
