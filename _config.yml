@@ -170,6 +170,21 @@ theme_config:
     max_depth: 6
 
   # ---------------------------------------------------------------
+  # Custom Page Settings
+  # See: https://theme-next.org/docs/theme-settings/custom-pages
+  # ---------------------------------------------------------------
+  # Google Calendar
+  calendar:
+    calendar_id: "ii13ubgir4hqnvenp098nge7k4@group.calendar.google.com"
+    api_key: "AIzaSyBaII3l_wXZdo3pSfcae80m3VIfd06cvnM"
+    offsetMax: 168 # Time Range
+    offsetMin: 96 # Time Range
+    orderBy: startTime
+    showDeleted: false
+    singleEvents: true
+    maxResults: 250
+
+  # ---------------------------------------------------------------
   # Misc Theme Settings
   # ---------------------------------------------------------------
   mobile_layout_economy: true
