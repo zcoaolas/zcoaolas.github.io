@@ -1,10 +1,13 @@
 ---
 title: Summer Pockets
-date: 2020-02-29 21:13:11
 categories:
-- Galgame
+  - Galgame
+date: 2020-02-29 21:13:11
+tags:
 ---
 
+![sp.jpg](https://i.loli.net/2020/03/30/4NsQ7bx1AkW3inK.jpg)
+<!-- more -->
 **<center>[眩しさだけは、忘れなかった。](http://key.visualarts.gr.jp/summer/)</center>**
 
 ## 简介

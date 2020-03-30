@@ -7,6 +7,8 @@
 npm update -g hexo
 
 hexo new "blog title"
+hexo new draft "draft title"
+hexo publish "draft title"
 
 (close webpage)
 hexo clean && hexo server --log
