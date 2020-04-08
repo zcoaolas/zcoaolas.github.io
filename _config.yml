@@ -114,13 +114,14 @@ theme_config:
 
   # ---------------------------------------------------------------
   # Site Information Settings
-  # See: https://theme-next.org/docs/getting-started/
   # ---------------------------------------------------------------
+  language_switcher: true
 
   # ---------------------------------------------------------------
   # Scheme Settings
   # ---------------------------------------------------------------
   scheme: Pisces
+  darkmode: true
 
   # ---------------------------------------------------------------
   # Menu Settings
@@ -187,8 +188,6 @@ theme_config:
   # ---------------------------------------------------------------
   # Misc Theme Settings
   # ---------------------------------------------------------------
-  mobile_layout_economy: true
-
   back2top:
     sidebar: true
     scrollpercent: true
