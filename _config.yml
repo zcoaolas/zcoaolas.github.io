@@ -5,7 +5,7 @@
 # Site
 title: A Sky Full of Stars
 subtitle: ''
-description: 'expected losses are losses but expected gains are not gains'
+description: 'Expected losses are losses but expected gains are not gains.'
 keywords:
 author: Chn Xen
 language: zh-CN
@@ -100,6 +100,7 @@ theme: next
 deploy:
   type: ''
 
+
 # ===============================================================
 # Theme Settings Section
 # ===============================================================
@@ -188,6 +189,18 @@ theme_config:
   # ---------------------------------------------------------------
   # Misc Theme Settings
   # ---------------------------------------------------------------
+  custom_logo: /uploads/logo.png
+  
   back2top:
     sidebar: true
     scrollpercent: true
+
+  # ---------------------------------------------------------------
+  # Favicon config
+  # ---------------------------------------------------------------
+  favicon:
+    small: /images/favicon-16x16.png
+    medium: /images/favicon-32x32.png
+    apple_touch_icon: /images/apple-touch-icon.png
+    safari_pinned_tab: /images/safari-pinned-tab.svg
+    ms_browserconfig: /images/browserconfig.xml
