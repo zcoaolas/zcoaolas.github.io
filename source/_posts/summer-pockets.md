@@ -6,8 +6,10 @@ date: 2020-02-29 21:13:11
 tags:
 ---
 
-![sp.jpg](https://i.loli.net/2020/03/30/4NsQ7bx1AkW3inK.jpg)
+![cover.jpg](https://i.loli.net/2020/04/20/Puwzi1BEUvk2NYe.jpg)
 <!-- more -->
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=530 height=86 src="//music.163.com/outchain/player?type=2&id=1311345874&auto=0&height=66"></iframe>
+
 **<center>[眩しさだけは、忘れなかった。](http://key.visualarts.gr.jp/summer/)</center>**
 
 ## 简介

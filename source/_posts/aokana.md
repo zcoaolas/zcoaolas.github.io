@@ -8,6 +8,8 @@ tags:
 
 ![aokana.jpg](https://i.loli.net/2020/03/30/TPQEvHruLfdbJaD.jpg)
 <!-- more -->
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=530 height=86 src="//music.163.com/outchain/player?type=2&id=32098315&auto=0&height=66"></iframe>
+
 **<center>[彼方の向こうに、何かが見える！](https://aokana.net/)</center>**
 
 ## 简介
