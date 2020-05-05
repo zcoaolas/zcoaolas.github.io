@@ -217,3 +217,26 @@ theme_config:
     three: //cdn.jsdelivr.net/gh/theme-next/theme-next-three@1/three.min.js
     three_waves: //cdn.jsdelivr.net/gh/theme-next/theme-next-three@latest/three-waves.min.js
   
+  # ---------------------------------------------------------------
+  # Comments Settings
+  # See: https://theme-next.org/docs/third-party-services/comments
+  # ---------------------------------------------------------------
+
+  # Valine
+  # For more information: https://valine.js.org, https://github.com/xCss/Valine
+  valine:
+    enable: true
+    appid: 7VfiO62J8PDpFohA4kSPszkw-gzGzoHsz
+    appkey: Acxvs2zV4cjalnClLR8YxEqo
+    notify: true # Mail notifier
+    verify: false # Verification code
+    placeholder: Any comments? # Comment box placeholder
+    avatar: mm # Gravatar style
+    guest_info: nick,mail,link # Custom comment header
+    pageSize: 10 # Pagination size
+    language: # Language, available values: en, zh-cn
+    visitor: true # Article reading statistic
+    comment_count: true # If false, comment count will only be displayed in post page, not in home page
+    recordIP: true # Whether to record the commenter IP
+    serverURLs: # When the custom domain name is enabled, fill it in here (it will be detected automatically by default, no need to fill in)
+    #post_meta_order: 0
