@@ -135,7 +135,7 @@ theme_config:
     schedule: /schedule/ || calendar
     archives: /archives/ || archive
     #about: /about/ || user
-    #tags: /tags/ || tags
+    tags: /tags/ || tags
     #sitemap: /sitemap.xml || sitemap
     #commonweal: /404/ || heartbeat
 
