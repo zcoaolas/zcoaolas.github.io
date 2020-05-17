@@ -8,7 +8,7 @@ tags:
   - QuickSheet
 ---
 
-![cover.jpg](https://i.loli.net/2020/05/11/Cnt8e2wUGx4cJR5.jpg)
+![cover.jpg](https://zcoaolas.imfast.io/blog_data/cfa/cover.jpg)
 <!-- more -->
 
 1. Interest rate
