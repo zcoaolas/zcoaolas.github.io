@@ -6,8 +6,6 @@ date: 2020-05-05 22:27:34
 tags:
 ---
 
-
-
 ![cover.jpg](https://i.loli.net/2020/05/05/ChpH8iUlTYS7NbQ.jpg)
 <!-- more -->
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=530 height=86 src="//music.163.com/outchain/player?type=2&id=1399862532&auto=0&height=66"></iframe>
