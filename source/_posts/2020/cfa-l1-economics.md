@@ -121,7 +121,7 @@ date: 2020-05-17 23:13:42
 
 19. IS & LM curve and AD & AS curve
     - diagram of below all curves
-    - income-savings curve
+    - investment-savings curve
       - equilibrium in goods market: S = I + (G-T) + (X-M)
       - move along: r
       - shift: fiscal policy; Y
